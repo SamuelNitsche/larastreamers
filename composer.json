@@ -8,7 +8,7 @@
     "require": {
         "php": "^8.0",
         "abraham/twitteroauth": "^3.2",
-        "calebporzio/sushi": "^2.3",
+        "calebporzio/sushi": "^2.4",
         "doctrine/dbal": "^3.2",
         "facade/ignition": "^2.17",
         "fideloper/proxy": "^4.4",
@@ -18,7 +18,7 @@
         "laravel/jetstream": "^2.4",
         "laravel/sanctum": "^2.12",
         "laravel/tinker": "^2.7",
-        "livewire/livewire": "^2.8",
+        "livewire/livewire": "^2.10",
         "owenvoke/blade-fontawesome": "^1.10",
         "pragmarx/countries": "^0.7.2",
         "spatie/data-transfer-object": "^3.7",
